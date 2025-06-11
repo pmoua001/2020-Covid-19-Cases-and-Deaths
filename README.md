@@ -4,10 +4,7 @@ This project analyes the cases and deaths across the U.S using data cleaning, vi
   
 [View the Tableau Dashboard](https://public.tableau.com/views/2020CovidCasesAndDeaths/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-U.S. Population by State By Alex
+Data Sources
+[U.S. Population by State By Alex](https://www.kaggle.com/datasets/alexandrepetit881234/us-population-by-state)
 
-[View Dataset](https://www.kaggle.com/datasets/alexandrepetit881234/us-population-by-state)
-
-Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence
-
-[View Dataset](https://catalog.data.gov/dataset/provisional-covid-19-death-counts-rates-and-percent-of-total-deaths-by-jurisdiction-of-res)
+[Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence From CDC](https://catalog.data.gov/dataset/provisional-covid-19-death-counts-rates-and-percent-of-total-deaths-by-jurisdiction-of-res)
