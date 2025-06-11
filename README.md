@@ -8,4 +8,4 @@ Data Sources
 
 [U.S. Population by State By Alex](https://www.kaggle.com/datasets/alexandrepetit881234/us-population-by-state)
 
-[Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence From CDC](https://catalog.data.gov/dataset/provisional-covid-19-death-counts-rates-and-percent-of-total-deaths-by-jurisdiction-of-res)
+[Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence By CDC](https://catalog.data.gov/dataset/provisional-covid-19-death-counts-rates-and-percent-of-total-deaths-by-jurisdiction-of-res)
